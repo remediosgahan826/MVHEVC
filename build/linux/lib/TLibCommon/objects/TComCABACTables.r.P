@@ -1,0 +1,13 @@
+objects/TComCABACTables.r.o: \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComCABACTables.cpp \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComCABACTables.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComCABACTables.cpp :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComCABACTables.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h :

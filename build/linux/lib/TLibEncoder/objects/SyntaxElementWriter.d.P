@@ -1,0 +1,15 @@
+objects/SyntaxElementWriter.d.o: \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.cpp \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRom.h
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.cpp :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRom.h :

@@ -1,0 +1,13 @@
+objects/TAppExtrCfg.r.o: \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/app/TAppExtractor/../../../../source/App/TAppExtractor/TAppExtrCfg.cpp \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/app/TAppExtractor/../../../../source/App/TAppExtractor/TAppExtrCfg.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/app/TAppExtractor/../../../../source/App/TAppExtractor/../../Lib/TLibCommon/CommonDef.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/app/TAppExtractor/../../../../source/App/TAppExtractor/../../Lib/TLibCommon/TypeDef.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/app/TAppExtractor/../../../../source/App/TAppExtractor/../../Lib/TAppCommon/program_options_lite.h \
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/app/TAppExtractor/../../../../source/App/TAppExtractor/../../Lib/TAppCommon/../TLibCommon/CommonDef.h
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/app/TAppExtractor/../../../../source/App/TAppExtractor/TAppExtrCfg.cpp :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/app/TAppExtractor/../../../../source/App/TAppExtractor/TAppExtrCfg.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/app/TAppExtractor/../../../../source/App/TAppExtractor/../../Lib/TLibCommon/CommonDef.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/app/TAppExtractor/../../../../source/App/TAppExtractor/../../Lib/TLibCommon/TypeDef.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/app/TAppExtractor/../../../../source/App/TAppExtractor/../../Lib/TAppCommon/program_options_lite.h :
+ /home/syea/gcld/TestMVHEVC01/HTM-16.0-MV-draft-5/build/linux/app/TAppExtractor/../../../../source/App/TAppExtractor/../../Lib/TAppCommon/../TLibCommon/CommonDef.h :
